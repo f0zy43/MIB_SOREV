@@ -5,4 +5,3 @@
 * https://github.com/SigmaHQ/sigma/tree/master/rules-threat-hunting/windows
 * https://github.com/elastic/protections-artifacts/tree/main/yara/rules
 * https://github.com/InQuest/awesome-yara/blob/master/README.md
-* https://github.com/Yara-Rules/rules
